@@ -1,8 +1,8 @@
-#Sequence Intent Classification Using Hierarchical Attention Networks
+# Sequence Intent Classification Using Hierarchical Attention Networks
 This is supporting code for the blog post (link TBD) where we use malware classification scenario to demostrate the point how useful
 Hierarchical Attention Networks (HANs) are for sequences analysis.
 
-##API calls classification
+## API calls classification
 Folder *csdms*  contains code related to [CSDMC 2010 API](http://csmining.org/index.php/malicious-software-datasets-.html)  malware vs benign software API 
 class classification.
 
