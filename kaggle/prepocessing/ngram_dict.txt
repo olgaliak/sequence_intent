@@ -1,0 +1,105 @@
+11953426,regex 
+207978,fff
+51086,secur
+46320,cookie 
+41108,trait
+39525,chartr
+36731,object 
+34758,mess
+32830,unic
+31006,strin
+0, section
+24697,ection 
+24199,alloc
+24125,buff
+23966,check
+22717,ulti
+20896,locator
+20556,session
+19037,window 
+18499,regist
+18386,basic
+17847,memor
+17647,manag
+17548,ration 
+17216,auhwnd
+4195,request
+4188,number
+17184,pauhwnd
+17145,trait
+16898,section
+16757,filen
+16676, uagjpa
+16651, struct
+16632,instanc
+16547,egistra
+16495,istrati
+16487,gistrat
+16485,tration
+16485,stratio
+16472,stream 
+14621,handle
+14749,level 
+16464,mfcdll
+16461,tmfcdll
+14332,except
+13991,serv
+13662,control
+11789,record 
+10817, releas
+9390,frame
+9444,epilog 
+0,name
+16461,itmfcdl
+16461,aitmfcd
+16446,variant
+16386,critic
+8282,addr
+17240,setnle
+12910,unknown
+12653,libn
+0, prop
+0, shape
+0,rowset
+0, field
+0, command
+0, hierar
+0, info
+0, column
+0, data
+0, descr
+0, member
+0, libr
+0, process
+0, count
+0, relat
+0, java
+0, downl
+0, protect
+0, filter
+0, dll
+0, query
+0, heap
+0, list
+0, value
+0, interf
+0, error
+0, class
+0, passw
+0, person
+0, cache
+0, authen
+0, begin
+0, increm
+0, exit
+0, show
+0, cmd
+0, thread
+0, eval
+0, color
+0, fail
+0, report
+0, code
+0, point
+
+
